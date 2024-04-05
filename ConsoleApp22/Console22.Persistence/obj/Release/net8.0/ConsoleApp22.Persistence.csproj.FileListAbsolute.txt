@@ -1,0 +1,11 @@
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\bin\Release\net8.0\ConsoleApp22.Persistence.deps.json
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\bin\Release\net8.0\ConsoleApp22.Persistence.dll
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\bin\Release\net8.0\ConsoleApp22.Persistence.pdb
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\ConsoleApp22.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\ConsoleApp22.Persistence.AssemblyInfoInputs.cache
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\ConsoleApp22.Persistence.AssemblyInfo.cs
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\ConsoleApp22.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\ConsoleApp22.Persistence.dll
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\refint\ConsoleApp22.Persistence.dll
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\ConsoleApp22.Persistence.pdb
+C:\Users\ck_aa\Downloads\USB-AG\C#.NET\ConsoleApp22\Console22.Persistence\obj\Release\net8.0\ref\ConsoleApp22.Persistence.dll

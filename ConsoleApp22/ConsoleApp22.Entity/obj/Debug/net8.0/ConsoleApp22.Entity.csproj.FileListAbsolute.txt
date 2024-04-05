@@ -1,0 +1,15 @@
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\bin\Debug\net8.0\ConsoleApp22.Entity.deps.json
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\bin\Debug\net8.0\ConsoleApp22.Entity.dll
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\bin\Debug\net8.0\ConsoleApp22.Entity.pdb
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\bin\Debug\net8.0\ConsoleApp22.Persistence.dll
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\bin\Debug\net8.0\ConsoleApp22.Persistence.pdb
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.csproj.AssemblyReference.cache
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.AssemblyInfoInputs.cache
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.AssemblyInfo.cs
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.csproj.CopyComplete
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.dll
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\refint\ConsoleApp22.Entity.dll
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ConsoleApp22.Entity.pdb
+C:\Users\ck_aa\source\repos\ConsoleApp22\ConsoleApp22.Entity\obj\Debug\net8.0\ref\ConsoleApp22.Entity.dll

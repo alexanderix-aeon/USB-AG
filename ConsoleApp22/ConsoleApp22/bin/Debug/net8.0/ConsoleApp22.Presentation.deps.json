@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp22.Presentation/1.0.0": {
+        "dependencies": {
+          "ConsoleApp22.Business": "1.0.0",
+          "ConsoleApp22.DataType": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp22.Presentation.dll": {}
+        }
+      },
+      "ConsoleApp22.Business/1.0.0": {
+        "dependencies": {
+          "ConsoleApp22.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp22.Business.dll": {}
+        }
+      },
+      "ConsoleApp22.DataType/1.0.0": {
+        "dependencies": {
+          "ConsoleApp22.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp22.DataType.dll": {}
+        }
+      },
+      "ConsoleApp22.Persistence/1.0.0": {
+        "runtime": {
+          "ConsoleApp22.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp22.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp22.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp22.DataType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConsoleApp22.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
