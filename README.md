@@ -1,4 +1,4 @@
-# Trade ategorization System
+# Trade Categorization System
 UBS AG, .NET Developer Test
 
 # Description
